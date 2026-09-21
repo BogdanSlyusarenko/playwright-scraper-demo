@@ -1,0 +1,18 @@
+{
+  "name": "scraper_v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0",
+    "format": "prettier --write \"tests/**/*.spec.ts\"",
+    "prettier": "3.9.6"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.2"
+  }
+}
